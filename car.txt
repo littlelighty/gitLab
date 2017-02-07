@@ -1,2 +1,0 @@
-local deleted
-remote deleted
