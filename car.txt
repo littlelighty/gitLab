@@ -1,2 +1,2 @@
 local deleted
-this is a car from remote!!
+remote deleted
